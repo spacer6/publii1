@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://publii1.firebaseapp.com/sitemap.xml
+Sitemap: https://publii1-e4567.web.app/sitemap.xml
