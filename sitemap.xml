@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://publii1.firebaseapp.com/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://publii1.firebaseapp.com/</loc>
+</url>
+<url>
+<loc>https://publii1.firebaseapp.com/lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit.html</loc>
+<lastmod>2021-05-31T17:00:16+05:30</lastmod>
+<image:image>
+<image:loc>https://publii1.firebaseapp.com/media\posts\1/stonehenge-101801_1920.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://publii1.firebaseapp.com/media\posts\1/adventure-1850912_1920.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://publii1.firebaseapp.com/lorem-ipsum-dolor-sit-amet-consectetur-adipiscing.html</loc>
+<lastmod>2021-05-31T16:59:09+05:30</lastmod>
+<image:image>
+<image:loc>https://publii1.firebaseapp.com/media\posts\2/woman-2594934_1920.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://publii1.firebaseapp.com/media\posts\2/photographer-407068_1920.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
